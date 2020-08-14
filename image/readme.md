@@ -30,11 +30,15 @@ MySQL is used with other programs to implement applications that need relational
 
 https://drive.google.com/file/d/1DaWRS5d_7RkhxjqP3dSmg18TICjv0xWR/view
 
+![model](https://raw.githubusercontent.com/junyi-z/COMP47360/master/image/model.png)
+
 You should download it and unzip to 'dublin_bus_summer/model_files'. Because the model files are too large to upload to GitHub.
 
 #### data_files
 
 https://drive.google.com/file/d/1Impyfv-tbxZNE0o5hhrODQqPNmsdRpAu/view
+
+![data](https://raw.githubusercontent.com/junyi-z/COMP47360/master/image/data.png)
 
 You should download it and unzip to 'dublin_bus_summer/data_files'. Because the data files are too large to upload to GitHub.
 
@@ -96,9 +100,9 @@ You should download it and unzip to 'dublin_bus_summer/data_files'. Because the 
 
 10. Install sshtunnel
 
-   ```
-   conda install sshtunnel
-   ```
+    ```
+    conda install sshtunnel
+    ```
 
 11. Clone the git repository
 
